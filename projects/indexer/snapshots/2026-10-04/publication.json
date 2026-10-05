@@ -1,0 +1,12 @@
+{
+  "siteUrl": "https://edward-carlson-portfolio.edkazcarlson.chatgpt.site",
+  "firstSuccessfulDeploymentRecordedAt": "2026-10-05T07:02:42.600452+00:00",
+  "timezone": "America/Los_Angeles",
+  "localPublicationDate": "2026-10-05",
+  "developmentSnapshotDate": "2026-10-04",
+  "firstPublishedSourceCommit": "2bbf2f7de7126006adf5b6fe0bf6a72b17c4ef74",
+  "firstPublishedVersion": 1,
+  "firstDeploymentId": "appgdep_6ac34b864f6c8191b7bf48cf2cb31bcf",
+  "archiveContentHash": "sha256:93d802e8a22a25bd43397750f24d0d73e2247231a03c27bb0b97d673791bb4cc",
+  "note": "The successful hosting response records this publication. Earlier milestone timestamps are from local Git history and are not independent proof of earlier public disclosure."
+}

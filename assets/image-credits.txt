@@ -1,0 +1,31 @@
+Indexer portfolio screenshot demo images
+
+Source collection: scikit-image v0.19.3 sample data
+https://github.com/scikit-image/scikit-image/tree/v0.19.3/skimage/data
+
+Licensing/attribution descriptions were checked against:
+https://github.com/scikit-image/scikit-image/blob/v0.19.3/skimage/data/_fetchers.py
+
+astronaut.png — Eileen Collins portrait, NASA. Public domain / no known copyright restrictions.
+https://flic.kr/p/r9qvLn
+
+camera.png — Lav Varshney. CC0. This is the replacement sample introduced in scikit-image 0.18.
+https://github.com/scikit-image/scikit-image/issues/3927
+
+chelsea.png — Stefan van der Walt. CC0.
+
+coffee.png — Rachel Michetti, courtesy of Pikolo Espresso Bar. CC0.
+
+horse.png — Andreas Preuss (marauder), Openclipart. CC0.
+https://openclipart.org/detail/158377/horse-by-marauder
+
+hubble_deep_field.jpg — NASA, Hubble eXtreme Deep Field. Described as public-domain imagery by the source collection.
+https://hubblesite.org/contents/news-releases/2012/news-2012-37.html
+
+rocket.jpg — SpaceX, DSCOVR launch on Falcon 9. Released into the public domain, as documented by the source collection.
+https://www.flickr.com/photos/spacexphotos/16511594820/
+
+The demo contains one byte-identical copy of each sample image under Archive copies.
+The images are sample inputs to Indexer; Indexer did not generate these images.
+The separate scale-group-board screenshot contains deterministic generated fixture images and vectors.
+No endorsement by the image creators or source collection is implied.

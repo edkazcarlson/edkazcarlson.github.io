@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "project": "Indexer",
+  "author": "Edward Kazuya Carlson",
+  "developmentSnapshotDate": "2026-10-04",
+  "dateTimezone": "America/Los_Angeles",
+  "assembledAt": "2026-10-05T07:04:51.633Z",
+  "applicationScreenshotsCapturedAt": "2026-10-05T06:49:53.245Z",
+  "publicSnapshotUrl": "https://edward-carlson-portfolio.edkazcarlson.chatgpt.site/projects/indexer/snapshots/2026-10-04/",
+  "publicationNote": "This manifest is published with the portfolio. Earlier Git timestamps are repository-reported development timestamps, not independently verified dates of public disclosure. A deployment record is required to establish the actual publication time.",
+  "publicationRecord": {
+    "siteUrl": "https://edward-carlson-portfolio.edkazcarlson.chatgpt.site",
+    "firstSuccessfulDeploymentRecordedAt": "2026-10-05T07:02:42.600452+00:00",
+    "timezone": "America/Los_Angeles",
+    "localPublicationDate": "2026-10-05",
+    "developmentSnapshotDate": "2026-10-04",
+    "firstPublishedSourceCommit": "2bbf2f7de7126006adf5b6fe0bf6a72b17c4ef74",
+    "firstPublishedVersion": 1,
+    "firstDeploymentId": "appgdep_6ac34b864f6c8191b7bf48cf2cb31bcf",
+    "archiveContentHash": "sha256:93d802e8a22a25bd43397750f24d0d73e2247231a03c27bb0b97d673791bb4cc",
+    "note": "The successful hosting response records this publication. Earlier milestone timestamps are from local Git history and are not independent proof of earlier public disclosure."
+  },
+  "gitHead": "a2ddb2b5d9504e6af51016f2dcd3aa6f3f09f1cd",
+  "workingTreeNote": "The captured build includes uncommitted similarity-map and related application changes. Source fingerprints identify the sampled files at capture, not a clean commit representing the whole build.",
+  "sourceFingerprints": [
+    {
+      "path": "GUI/web/explorer.html",
+      "sha256": "73dd3ba8131c9a19e1a21f2c7784fe3fa3952afd7318bb1801e6bcb8d22b00a8"
+    },
+    {
+      "path": "GUI/web/js/explorer-core.js",
+      "sha256": "cde6d786a1ec6a6c1f1a28e8da08ce1d85626cf03c1622e87c4b405986324a45"
+    },
+    {
+      "path": "GUI/web/js/image-map.js",
+      "sha256": "465bbf5951a6a192f7d046ece6fe0f2e653e5a4d7ac19f101a8be9cd26697ab0"
+    },
+    {
+      "path": "GUI/web/js/image-map-renderer.js",
+      "sha256": "c3ab422fb839459f48c058a25c6582cc274b6dd188f9c51321109edbea9191b7"
+    },
+    {
+      "path": "GUI/src/image-map/ImageMapService.cpp",
+      "sha256": "88c2495b1fbcee8f7218b4f804a7ea1825ad0fdf95e1badb0118a9aa6022ea05"
+    },
+    {
+      "path": "tests/NotFilterTest.cpp",
+      "sha256": "5650584baf45b6f077982fa94ba4b1435d549d4dabc281f455e66710f28ac239"
+    },
+    {
+      "path": "GUI features.md",
+      "sha256": "9fb7da1784922f24bb6494796f843cef5ebcc5f81dc6c33f25a32b424e869d02"
+    },
+    {
+      "path": "docs/folder-similarity.md",
+      "sha256": "85b0de86f879df427b954184a784dd1fce096b126b53d67248a9a88b0270909d"
+    }
+  ],
+  "applicationBinary": {
+    "build": "Windows x64 Release",
+    "sha256": "cbcc3954f023f07bfdfb0013791cc6577191eb6e579d6c3267fa7b00c7ddb234"
+  },
+  "milestones": [
+    {
+      "commit": "1bd3864be5fea48ca684ea2294150848e83aec48",
+      "authorDate": "2025-12-08T00:57:14-08:00",
+      "committerDate": "2025-12-08T00:57:14-08:00",
+      "subject": "first real commit"
+    },
+    {
+      "commit": "acc64995d06bbcee59675ed25cea2aa130e70ef7",
+      "authorDate": "2026-01-25T20:55:48-08:00",
+      "committerDate": "2026-01-25T20:55:48-08:00",
+      "subject": "not filter"
+    },
+    {
+      "commit": "4b2c0e3227100073b59ef8a738969f5bf2179f20",
+      "authorDate": "2026-07-13T22:35:29-07:00",
+      "committerDate": "2026-07-13T22:35:29-07:00",
+      "subject": "harness + search similar"
+    },
+    {
+      "commit": "f2a5f5a84292470d5e8d083f2d14445c26da9561",
+      "authorDate": "2026-07-26T14:17:35-07:00",
+      "committerDate": "2026-07-26T14:17:35-07:00",
+      "subject": "cleanup"
+    },
+    {
+      "commit": "3769767b2d6d0c43431488acc21a4b120af918fa",
+      "authorDate": "2026-07-28T10:54:34-07:00",
+      "committerDate": "2026-07-28T10:54:34-07:00",
+      "subject": "stash"
+    }
+  ],
+  "screenshotCorpus": {
+    "totalFiles": 14,
+    "uniqueImages": 7,
+    "duplicates": 7,
+    "source": "scikit-image v0.19.3 sample data",
+    "licenses": "CC0 and public domain, as attributed in image-credits.txt",
+    "profile": "Disposable Indexer PPE",
+    "productionDatabaseAccessed": false
+  },
+  "searchObservations": [
+    {
+      "query": "space",
+      "applicationDisplayedSummary": "14 results · semantic + OCR + path (RRF fused) · 4 ms",
+      "resultOrder": [
+        "hubble_deep_field.jpg",
+        "hubble_deep_field.jpg",
+        "rocket.jpg",
+        "rocket.jpg",
+        "astronaut.png",
+        "astronaut.png",
+        "coffee.png",
+        "coffee.png",
+        "chelsea.png",
+        "chelsea.png",
+        "horse.png",
+        "horse.png",
+        "camera.png",
+        "camera.png"
+      ]
+    },
+    {
+      "query": "space",
+      "applicationDisplayedSummary": "14 results · semantic + OCR + path (RRF fused) · 5 ms",
+      "resultOrder": [
+        "hubble_deep_field.jpg",
+        "hubble_deep_field.jpg",
+        "rocket.jpg",
+        "rocket.jpg",
+        "astronaut.png",
+        "astronaut.png",
+        "coffee.png",
+        "coffee.png",
+        "chelsea.png",
+        "chelsea.png",
+        "horse.png",
+        "horse.png",
+        "camera.png",
+        "camera.png"
+      ]
+    },
+    {
+      "query": "space not:astronaut",
+      "applicationDisplayedSummary": "14 results · semantic + OCR + path (RRF fused) · 18 ms",
+      "resultOrder": [
+        "hubble_deep_field.jpg",
+        "hubble_deep_field.jpg",
+        "coffee.png",
+        "coffee.png",
+        "chelsea.png",
+        "chelsea.png",
+        "rocket.jpg",
+        "rocket.jpg",
+        "horse.png",
+        "horse.png",
+        "camera.png",
+        "camera.png",
+        "astronaut.png",
+        "astronaut.png"
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "assets/duplicate-review.png",
+      "sha256": "915caf9daf197b6e3da26ef8220af3ea30f9b5e8409d06bea98f9b954c0b7818",
+      "corpus": "14-file public-image PPE demo"
+    },
+    {
+      "file": "assets/group-board.png",
+      "sha256": "7049a821dd2733f87d1116d7ae02dcabf87099c6539bf6f1cbffe1c8057b5313",
+      "corpus": "14-file public-image PPE demo"
+    },
+    {
+      "file": "assets/negative-search.png",
+      "sha256": "f16b229ac4367ff040cc7fdda5be236c8c7824001060395d12e3c34bd9dd99da",
+      "corpus": "14-file public-image PPE demo"
+    },
+    {
+      "file": "assets/scale-group-board.png",
+      "sha256": "0f71e391da5594061e3a1b952b6de601a69ad747cf610a7b8dd4735db50c58fe",
+      "corpus": "Separate 50,000-file synthetic fixture"
+    },
+    {
+      "file": "assets/semantic-search.png",
+      "sha256": "7a6a9367c89076b8320614a2f4ac5f027b8d1d767f801757ef14b2c737d4bf0b",
+      "corpus": "14-file public-image PPE demo"
+    },
+    {
+      "file": "assets/similarity-map.png",
+      "sha256": "ebee6608b698aa6cd245e967d24058feefcf0f2a2f66ee535097312321d671db",
+      "corpus": "14-file public-image PPE demo"
+    }
+  ],
+  "syntheticMapBenchmark": {
+    "fileCount": 50000,
+    "uniqueContentStacks": 11220,
+    "coldPreparationSeconds": 20.49,
+    "nativeCachedReopenSeconds": 0.54,
+    "guiCachedReopenSeconds": 0.8853605,
+    "presetMilliseconds": [
+      33.3,
+      28.8,
+      29
+    ],
+    "drawP95Milliseconds": 10,
+    "frameIntervalP95Milliseconds": 14,
+    "logicalCpuCount": 24,
+    "usableMemoryGiB": 31.1,
+    "os": "Windows 11",
+    "date": "2026-10-04",
+    "limitations": "Generated images/vectors; not a real-photo clustering-quality measurement. Actual 8-core/16-GiB baseline qualification and total additional feature-memory measurement remain outstanding."
+  },
+  "status": "Development snapshot; similarity-map feature not packaged or released by this snapshot."
+}
